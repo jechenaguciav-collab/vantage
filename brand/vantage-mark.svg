@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Vantage">
+<defs><radialGradient id="g" cx="50%" cy="50%" r="55%"><stop offset="0" stop-color="#14264b"/><stop offset="1" stop-color="#0a152d"/></radialGradient></defs>
+<circle cx="256" cy="256" r="254" fill="url(#g)"/>
+<circle cx="256" cy="256" r="252" fill="none" stroke="#5a78b5" stroke-opacity=".75" stroke-width="2.5"/>
+<polygon points="70,141 144,141 183,282 222,141 296,141 213,368 153,368" fill="#ffffff"/>
+<polyline points="284,298 356,366 468,194" fill="none" stroke="#5cc566" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
